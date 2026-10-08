@@ -16,3 +16,5 @@ desktop.ini
 *.pem
 *.key
 node_modules/
+
+dist/
